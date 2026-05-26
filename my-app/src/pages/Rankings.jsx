@@ -1,4 +1,4 @@
-import { players } from "../data/players"
+import { players } from "../data/players.js"
 import { Link } from "react-router-dom"
 
 export default function Rankings() {
